@@ -1,0 +1,2 @@
+# TRACE-AI---Requirements-to-Test-Artifacts
+TRACE AI is an application that takes a requirements document &amp; generates a complete set of test artifacts. Upload a DOCX or Excel file, select the requirements you want to cover, &amp; it produces a System Study, Test Plan, Test Cases &amp; a Traceability Matrix. Built to cut down the time spent on manual documentation during the early stages of the STLC.
